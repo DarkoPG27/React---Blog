@@ -11,6 +11,12 @@
       "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum dolore ipsam ab sapiente aspernatur, quos doloremque eaque, autem ratione nesciunt praesentium obcaecati deserunt in? Iusto voluptate voluptatibus culpa tempore porro! Perferendis culpa eligendi nulla doloribus tempora quia natus debitis ratione deleniti sint in illo minus, similique esse odio fugit repellat quod quae, quasi voluptate ad adipisci vel! Soluta, possimus saepe? Alias, reprehenderit aliquid unde voluptates inventore distinctio cum suscipit nisi qui beatae dolores ullam omnis, blanditiis perferendis. Iste hic consequatur sunt deserunt suscipit fugiat, necessitatibus velit distinctio natus reprehenderit perspiciatis!",
       "author": "Ally",
       "id": 2
+    },
+    {
+      "title": "React-A JavaScript library for building user interfaces",
+      "body": "Declarative\nReact makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.\n\nDeclarative views make your code more predictable and easier to debug.\n\nComponent-Based\nBuild encapsulated components that manage their own state, then compose them to make complex UIs.\n\nSince component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.\n\nLearn Once, Write Anywhere\nWe don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.\n\nReact can also render on the server using Node and power mobile apps using React Native.",
+      "author": "Wick",
+      "id": 3
     }
   ]
 }
